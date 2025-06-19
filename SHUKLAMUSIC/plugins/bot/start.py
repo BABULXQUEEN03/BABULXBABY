@@ -28,15 +28,15 @@ from config import BANNED_USERS
 from strings import get_string
 
 SHASHANK_VD = ["https://files.catbox.moe/5z3tfz.mp4",
-          "https://telegra.ph/file/bbc914cce6cce7f607641.mp4",
-          "https://files.catbox.moe/izcz2e.jpg",
-          "https://files.catbox.moe/izcz2e.jpg",
-          "https://files.catbox.moe/6y22qw.jpg",
+          "https://files.catbox.moe/5z3tfz.mp4",
+          "https://files.catbox.moe/5z3tfz.mp4",
+          "https://files.catbox.moe/5z3tfz.mp4",
+          "https://files.catbox.moe/5z3tfz.mp4",
+          "https://files.catbox.moe/5z3tfz.mp4",
           "https://files.catbox.moe/5z3tfz.mp4",
           "https://files.catbox.moe/ukgrq8.mp4",
           "https://files.catbox.moe/ukgrq8.mp4",
-          "https://files.catbox.moe/5z3tfz.mp4",
-          "https://files.catbox.moe/5z3tfz.mp4",
+          "https://files.catbox.moe/ukgrq8.mp4",
           "https://files.catbox.moe/ukgrq8.mp4",
           "https://files.catbox.moe/ukgrq8.mp4"]
 
