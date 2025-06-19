@@ -41,21 +41,21 @@ SHASHANK_VD = ["https://telegra.ph/file/89c5023101b65f21fb401.mp4",
           "https://telegra.ph/file/421ee22ed492a7b8ce101.mp4"]
 
 SHASHANK_PH = [
-    "https://files.catbox.moe/jrupn9.jpg",
-    "https://files.catbox.moe/5z141p.jpg",
-    "https://files.catbox.moe/fnl0h7.jpg",
-    "https://files.catbox.moe/1lz1go.jpg",
+    "https://files.catbox.moe/utsvvd.jpg",
+    "https://files.catbox.moe/izcz2e.jpg",
+    "https://files.catbox.moe/qzfnpb.jpg",
+    "https://files.catbox.moe/osrt7b.jpg",
     "https://files.catbox.moe/avackl.jpg",
-    "https://files.catbox.moe/1yrzwz.jpg",
+    "https://files.catbox.moe/l7wcjj.jpg",
     "https://files.catbox.moe/6y22qw.jpg",
-    "https://files.catbox.moe/gnnsf2.jpg",
-    "https://files.catbox.moe/ss6r60.jpg",
-    "https://files.catbox.moe/yuob18.jpg",
-    "https://files.catbox.moe/i9xrrp.jpg",
-    "https://files.catbox.moe/a9tx8f.jpg"
+    "https://files.catbox.moe/qzfnpb.jpg",
+    "https://files.catbox.moe/utsvvd.jpg",
+    "https://files.catbox.moe/izcz2e.jpg",
+    "https://files.catbox.moe/utsvvd.jpg",
+    "https://files.catbox.moe/izcz2e.jpg"
     "https://files.catbox.moe/wlt26x.jpg",
-    "https://files.catbox.moe/c1lylh.jpg",
-    "https://files.catbox.moe/82eymp.jpg",
+    "https://files.catbox.moe/izcz2e.jpg",
+    "https://files.catbox.moe/izcz2e.jpg",
 ]
 
 STICKERS = [  
